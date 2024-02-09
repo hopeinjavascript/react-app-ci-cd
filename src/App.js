@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React JS and Next JS.
+          Learn React JS, Next JS and Node JS.
         </a>
       </header>
     </div>
